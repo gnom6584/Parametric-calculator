@@ -1,0 +1,1 @@
+/mnt/c/Users/Name/emcc/emsdk/upstream/emscripten/em++    -fexceptions -s 'EXTRA_EXPORTED_RUNTIME_METHODS=["cwrap"]' -s EXPORTED_FUNCTIONS=['_run','_free_str'] @CMakeFiles/expression_system.dir/objects1.rsp  -o expression_system.html 

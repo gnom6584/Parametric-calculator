@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="expression_system"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="expression_system">
+				<Option output="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/expression_system.html" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 expression_system"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="expression_system/fast">
+				<Option output="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/expression_system.html" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 expression_system/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/calculator/calculator.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/calculator/declarations_calculator.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/calculator/declarations_stack.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/string_parser.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/token.cpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/token.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/block_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/expression_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/function_invocation_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/number_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/operator_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/parameter_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/parser/tree/parse_unit.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/substituted_elements/expression_function.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/substituted_elements/function.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/substituted_elements/internal_function.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/tree/expression.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/tree/function_invocation.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/tree/number.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/tree/parameter.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/named.cpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/named.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/slice_view.cpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/slice_view.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/string_utility.cpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/string_utility.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/expression_system/utility/transform_view.hpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/main.cpp">
+			<Option target="expression_system"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Name/CLionProjects/expression_system/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

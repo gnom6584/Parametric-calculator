@@ -1,0 +1,3 @@
+/mnt/c/Users/Name/CLionProjects/expression_system/emcc/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Name/CLionProjects/expression_system/emcc/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Name/CLionProjects/expression_system/emcc/CMakeFiles/expression_system.dir

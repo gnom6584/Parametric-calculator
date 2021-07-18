@@ -1,0 +1,3 @@
+/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Name/CLionProjects/expression_system/cmake-build-debug/CMakeFiles/expression_system.dir
