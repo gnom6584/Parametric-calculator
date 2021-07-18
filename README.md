@@ -21,4 +21,4 @@ unary_postfix: !
 pre-defined functions: negative(), positive(), fact(), add(,), sub(,), mul(,), div(,) pow(,)
 
 
-WARGNING Адский говнокод
+WARNING Адский говнокод
